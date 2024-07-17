@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZalanFazal
-- 👀 I’m interested in Web and Data science
+- 👀 I’m interested in Data analysis and Data science
 - 🌱 I’m currently learning Data structure
-- 💞️ I’m looking to collaborate on Data Structure and Web Development projects
+- 💞️ I’m looking to collaborate on Data analysis projects
 
 
 <!---
