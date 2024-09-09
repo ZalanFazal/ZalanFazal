@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZalanFazal
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Data structure
+- 🌱 I’m currently doing Software projects
 - 💞️ I’m looking to collaborate on Software projects
 
 
