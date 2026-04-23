@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ZalanFazal
-- 👀 I’m interested in coding
-- 🌱 I’m currently doing Software projects
-- 💞️ I’m looking to collaborate on Software projects
-
+- 💻 Full Stack Software Engineer (React, Next.js,Node Js, NestJS)
+- 🚀 Passionate about building scalable web applications
+- 🌱 Continuously learning and improving my craft
+- 🤝 Open to collaborating on innovative software projects
+- 📫 Let’s connect and build something great together
 
 <!---
-ZalanFazal/ZalanFazal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ZalanFazal/ZalanFazal is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 --->
